@@ -1,5 +1,4 @@
 import tensorflow as tf
-
 import pandas as pd
 CSV_COLUMN_NAMES = ['SepalLength', 'SepalWidth', 'PetalLength', 'PetalWidth', 'Species']
 SPECIES = ['Setosa', 'Versicolor', 'Virginica']
